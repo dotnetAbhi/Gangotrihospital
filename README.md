@@ -13,7 +13,7 @@ JavaScript – Dynamic behavior and client-side logic
 
 ✨ Features
 
-👨‍⚕️ Doctor Management
+👨‍⚕️ Doctor Management.
 
 🧑‍⚕️ Patient Registration
 
