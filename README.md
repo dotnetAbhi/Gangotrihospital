@@ -3,7 +3,7 @@
 
 The Hospital Management System is a web-based application designed to simplify and manage hospital operations efficiently. This project is built using HTML, CSS, and JavaScript and focuses on providing a user-friendly interface for managing patients, doctors, appointments, and basic hospital records.
 
-🛠️ Technologies Used.
+🛠️ Technologies Used
 
 HTML5 – Structure and layout of the application.
 
