@@ -23,4 +23,4 @@ JavaScript – Dynamic behavior and client-side logic
 
 🔍 Search Functionality.
 
-📱 Responsive Design for different screen sizes
+📱 Responsive Design for different screen sizes.
