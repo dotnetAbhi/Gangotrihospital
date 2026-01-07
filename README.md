@@ -21,6 +21,6 @@ JavaScript – Dynamic behavior and client-side logic
 
 📋 View Patient Records.
 
-🔍 Search Functionality
+🔍 Search Functionality.
 
 📱 Responsive Design for different screen sizes
