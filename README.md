@@ -5,7 +5,7 @@ The Hospital Management System is a web-based application designed to simplify a
 
 🛠️ Technologies Used
 
-HTML5 – Structure and layout of the application
+HTML5 – Structure and layout of the application.
 
 CSS3 – Styling and responsive design.
 
