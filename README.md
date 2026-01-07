@@ -19,7 +19,7 @@ JavaScript – Dynamic behavior and client-side logic
 
 📅 Appointment Scheduling.
 
-📋 View Patient Records
+📋 View Patient Records.
 
 🔍 Search Functionality
 
