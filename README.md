@@ -17,7 +17,7 @@ JavaScript – Dynamic behavior and client-side logic
 
 🧑‍⚕️ Patient Registration.
 
-📅 Appointment Scheduling
+📅 Appointment Scheduling.
 
 📋 View Patient Records
 
